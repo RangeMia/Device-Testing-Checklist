@@ -4,6 +4,8 @@ A simple, interactive checklist for testing refurbished devices before they go o
 
 Built for hardware teams who need a consistent, repeatable way to check that every device meets quality standards — whether it's a laptop, desktop, tablet, phone, all-in-one, or monitor.
 
+<img width="482" height="436" alt="image" src="https://github.com/user-attachments/assets/a0906fa1-6207-4b2c-85fc-08e64bd1d6e7" />
+
 ## What it does
 
 - **One checklist, all device types** — select the device type and the checklist adapts automatically, showing only the checks that are relevant. Monitors get display and port checks. Laptops get battery, keyboard, and trackpad checks. No wasted time on things that don't apply.
